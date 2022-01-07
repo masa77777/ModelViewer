@@ -8,6 +8,8 @@
     grid-auto-columns: 300px 100px; */
 }
 .wrapper div {
+    width: 100%;
+    height: 100%;
     background-color: beige;
     border-radius: 0.5rem;
 }
