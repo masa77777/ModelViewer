@@ -27,4 +27,3 @@ function execUpload() {
     xmlHttp.send(formData);
     // console.log("5: " + xmlHttp.readyState);
 }
-
